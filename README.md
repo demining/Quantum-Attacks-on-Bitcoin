@@ -13,6 +13,16 @@
 </blockquote>
 
 
+---
+
+* Tutorial: https://youtu.be/p62orC7WDUE
+* Tutorial: https://cryptodeeptech.ru/quantum-attacks-on-bitcoin
+* Tutorial: https://dzen.ru/video/watch/67c3e91abbfa683a745a0aea
+* Google Colab: https://colab.research.google.com/drive/1jqHX5Oawy3QPh2OSYVf6AF1RGtjAb4rj
+
+---
+
+
 
 <p>Bitcoin, as a decentralized and cryptographically protected digital currency, has been successfully in existence since 2008, inspiring the creation of many other cryptocurrencies. Its security is ensured by the proof-of-work mechanism and elliptic curve cryptographic signatures. However, the development of quantum computers poses a serious threat to Bitcoin and all modern cryptography used on the Internet and financial transactions. Research shows that the proof-of-work algorithm used in Bitcoin is relatively resistant to quantum attacks in the next 10 years due to the high speed of specialized mining equipment. But the elliptic curve digital signature system is vulnerable to Shor’s algorithm and could be hacked as early as 2027, allowing attackers to obtain secret keys from Bitcoin transactions and private keys from public ones. Alternative algorithms such as Momentum for proof-of-work and quantum-resistant signature schemes are proposed as a solution. Overall, the findings suggest that quantum computers pose a serious threat to Bitcoin, and new security methods need to be developed to ensure its future security. Quantum computers could&nbsp;<a href="https://keyhunters.ru/quantum-computers-will-hack-bitcoin-in-five-years-opinion/"><em>hack Bitcoin within five years</em></a>&nbsp;. This could&nbsp;<a href="https://polynonce.ru/bitcoins-looming-threat-the-risk-of-quantum-hack/"><em>wipe out more than $3 trillion in cryptocurrency</em></a>&nbsp;and other markets and cause a deep recession.</p>
 
